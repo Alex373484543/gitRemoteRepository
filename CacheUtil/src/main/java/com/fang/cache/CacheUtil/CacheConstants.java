@@ -9,7 +9,7 @@ public interface CacheConstants {
 	}
 
 	public interface CacheKey{
-		/**���ַ����ػ���*/
+		
 		public static final String DISTRICT_RANK ="districtRank";
 	
 	}

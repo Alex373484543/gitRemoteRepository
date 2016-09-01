@@ -1,6 +1,11 @@
 package com.fang.cache.CacheUtil;
 
-
+/**
+ * 
+ * @author 王超
+ *
+ *抽象策略类
+ */
 
 public interface ICacheUtil {
 

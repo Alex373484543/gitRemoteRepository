@@ -12,7 +12,13 @@ import org.springframework.data.redis.core.RedisCallback;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Component;
 
-
+/**
+ * 
+ * @author 王超
+ * 
+ * 具体策略类
+ *
+ */
 
 @Component("redisCache")
 public class RedisCacheUtil implements ICacheUtil {
